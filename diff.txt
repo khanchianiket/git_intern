@@ -1,0 +1,4 @@
+a = 5
+b = 4
+# printing the difference of two variables
+print(a-b)
