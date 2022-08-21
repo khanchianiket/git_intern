@@ -11,4 +11,7 @@
 11. git log
 12. git restore <file name>
 13. git checkout <branch name/hashcode>
-14. git branch
+14. git branch <branch name>
+15. git branch
+16. git merge <branch name>
+17. touch .gitignore
