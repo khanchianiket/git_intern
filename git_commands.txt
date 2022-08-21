@@ -1,0 +1,14 @@
+1. git --version
+2. git config --global user.name
+3. git config --global user.email
+4. git config --global --edit
+5. mkdir <dir name>
+6. cd <dir name>
+7. git init
+8. git status
+9. git add <file name>
+10.git commit -m "message"
+11. git log
+12. git restore <file name>
+13. git checkout <branch name/hashcode>
+14. git branch
